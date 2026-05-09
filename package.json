@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "mongodb": "^7.1.0",
-    "mongoose": "^9.3.0"
+    "mongoose": "^9.6.2"
   }
 }
